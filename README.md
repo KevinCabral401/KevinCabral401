@@ -7,7 +7,7 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Android Development (Java)</b>
-  - [Mobile Banking App (Java, Databases, Web Request)](https://github.com/KevinCabral401/Portfolio/tree/main/Memory%20Matching%20Game) 
+  - [Mobile Banking App (Java, Databases, Web Request)](https://github.com/KevinCabral401/Portfolio/tree/main/Mobile%20Banking) 
 
 <h2> 🤳 Connect with me:</h2>
 
