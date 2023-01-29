@@ -2,7 +2,6 @@
 
 
 <h2>👨‍ Current Projects:</h2>
-
 - <b>GLEE (Great Lunar Expedition for Everyone)</b>
   - [GLEE2023](https://www.glee2023.org/)
   - Each GLEE team are in charge of LunaSats, tiny spacecraft with an integrated sensor suite that will be programmed by teams of students all over the world for a mission of their own design. These LunaSats will then piggyback on an existing NASA exepedition to disperse the sensors accorss the surface of the moon and report their data back to earth.
