@@ -10,7 +10,7 @@
 - <b>Gunnison Cold Air Pooling Poject</b>
   - For my senior capstone couse this semester me and a team of two other students are given a client from the local gunnison community. Our client The Gunnison Cold Air Pooling Project want a website that will make their temperature sensor's data availiable to the public. Users will be able to query the data and generate data visualizations. The website will also have a blog feature, admins will be able to post to the blog and upload new CSV files containing the data that will then be processed in the backend and displayed for the user. 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Computer Science/Software Development Projects:</h2>
 
 - <b>Understanding of Algorithms/Data Structures</b>
   - [Maximum Bipartite Matching Algorithm Reasearch](https://github.com/KevinCabral401/Portfolio/blob/main/Maximum%20Bipartite%20Matching%20Algorithm/Maximum%20Bipartite%20Matching.pdf)
