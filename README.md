@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="">Software Developer</a></h1>
+<h1>Hi, I'm Kevin! <br/><a href="">Software Developer/Engineer</a></h1>
 
 
 <h2>👨‍ Current Projects:</h2>
