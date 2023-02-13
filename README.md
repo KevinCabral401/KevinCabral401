@@ -20,6 +20,8 @@
   - [Coffee Ordering App](https://github.com/KevinCabral401/Portfolio/tree/main/Coffee%20Ordering%20Web%20App)
 - <b>Android Development</b>
   - [Mobile Banking App (Java, Databases, Web Request)](https://github.com/KevinCabral401/Portfolio/tree/main/Mobile%20Banking) 
+- <b>Machine Learning</b>
+  - [Cyberbullying Tweet Classification (Python, Pandas, NumPy, Data Analytics)]()
 
 <h2> 🤳 Connect with me:</h2>
 
