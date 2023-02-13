@@ -21,7 +21,7 @@
 - <b>Android Development</b>
   - [Mobile Banking App (Java, Databases, Web Request)](https://github.com/KevinCabral401/Portfolio/tree/main/Mobile%20Banking) 
 - <b>Machine Learning</b>
-  - [Cyberbullying Tweet Classification (Python, Pandas, NumPy, Data Analytics)]()
+  - [Cyberbullying Tweet Classification (Python, Pandas, NumPy, Data Analytics)](https://github.com/KevinCabral401/Portfolio/tree/main/Machine%20Learning)
 
 <h2> 🤳 Connect with me:</h2>
 
