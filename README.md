@@ -8,7 +8,7 @@
   - Each GLEE team are in charge of LunaSats, tiny spacecraft with an integrated sensor suite that will be programmed by teams of students all over the world for a mission of their own design. These LunaSats will then piggyback on an existing NASA exepedition to disperse the sensors accorss the surface of the moon and report their data back to earth.
 
 - <b>Gunnison Cold Air Pooling Project</b>
-- gunnisoncoldpooling.net
+  - [gunnisoncoldpooling.net](gunnisoncoldpooling.net)
   - For my senior capstone couse this semester me and a team of two other students are given a client from the local Gunnison community. Our client The Gunnison Cold Air Pooling Project want a website that will make their temperature sensor's data availiable to the public. Users will be able to query the data and generate data visualizations. The website will also have a blog feature, admins will be able to post to the blog and upload new CSV files containing the data that will then be processed in the backend and displayed for the user. 
 
 <h2>👨‍💻 Computer Science/Software Development Projects:</h2>
