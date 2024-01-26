@@ -1,9 +1,6 @@
 <h1>Hi, I'm Kevin! <br/><a href="">Software Developer/Engineer</a></h1>
 
 <h2>👨‍💻 Computer Science/Software Development Projects:</h2>
-
-- <b>Understanding of Algorithms/Data Structures</b>
-  - [Maximum Bipartite Matching Algorithm Reasearch](https://github.com/KevinCabral401/Portfolio/blob/main/Maximum%20Bipartite%20Matching%20Algorithm/Maximum%20Bipartite%20Matching.pdf)
 - <b>Web Developemnt (HTML,CSS,JavaScript,PHP,SQL)</b>
   - [Gunnison Cold Pooling Project](https://github.com/samreeves8/ColdAirPooling)
 - <b>Android Development</b>
