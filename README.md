@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Computer Science/Software Development Projects:</h2>
 - <b>Web Developemnt (HTML,CSS,JavaScript,PHP,SQL)</b>
-  - [Gunnison Cold Pooling Project](https://github.com/samreeves8/ColdAirPooling)
+  - [Gunnison Cold Pooling Project](https://github.com/samreeves8/ColdAirPooling)<br>
 - <b>Android Development</b>
-  - [Mobile Banking App (Java, Databases, Web Request)](https://github.com/KevinCabral401/Portfolio/tree/main/Mobile%20Banking) 
+  - [Mobile Banking App (Java, Databases, Web Request)](https://github.com/KevinCabral401/Portfolio/tree/main/Mobile%20Banking) <br>
 - <b>Machine Learning</b>
-  - [Cyberbullying Tweet Classification (Python, Pandas, NumPy, Data Analytics)](https://github.com/KevinCabral401/Portfolio/tree/main/Machine%20Learning)
+  - [Cyberbullying Tweet Classification (Python, Pandas, NumPy, Data Analytics)](https://github.com/KevinCabral401/Portfolio/tree/main/Machine%20Learning)<br>
 
 <h2> 🤳 Connect with me:</h2>
 
