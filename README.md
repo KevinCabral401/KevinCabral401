@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="">Software Development Enginner / in Testing</a></h1>
+<h1>Hi, I'm Kevin! <br/><a href="">Software Developer / Software Development Enginner in Testing</a></h1>
 
 <h2>👨‍💻 Computer ScienceSoftware Development Projects:</h2>
 - <b>Web Developemnt (HTML, CSS, JavaScript, PHP, SQL, Agile)</b>
