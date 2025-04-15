@@ -7,6 +7,9 @@
   - [Mobile Banking App (Java, Databases, Web Request)](https://github.com/KevinCabral401/Portfolio/tree/main/Mobile%20Banking) <br>
 - <b>Machine Learning</b>
   - [Cyberbullying Tweet Classification (Python, Pandas, NumPy, Data Analytics)](https://github.com/KevinCabral401/Portfolio/tree/main/Machine%20Learning)<br>
+<h2>👨‍💻 Software Development Engineer in Testing Projects:</h2>
+- <b>Functional and Nonfunctional Testing</b>
+  - [Planatarium Web App (Selenium, Cucumber, JUnit, Mockito, JIRA)](https://github.com/JakeTK06/Revature-Project2)<br>
 
 <h2> 🤳 Connect with me:</h2>
 
