@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin! <br/><a href="">Software Developer / Software Development Enginner in Testing</a></h1>
 
-<h2>👨‍💻 Computer ScienceSoftware Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 - <b>Web Developemnt (HTML, CSS, JavaScript, PHP, SQL, Agile)</b>
   - [Gunnison Cold Pooling Project]<br>(https://github.com/samreeves8/ColdAirPooling)<br>
 - <b>Android Development</b>
