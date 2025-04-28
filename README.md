@@ -3,6 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Web Developemnt (HTML, CSS, JavaScript, PHP, SQL, Agile)</b>
   - [Gunnison Cold Pooling Project]<br>(https://github.com/samreeves8/ColdAirPooling)<br>
+- <b>Web Development (Java, Spring)</b>
+  - [Spring Social Media Blog](https://github.com/KevinCabral401/KevinCabral401-pep-spring-project)
 - <b>Android Development</b>
   - [Mobile Banking App (Java, Databases, Web Request, SDLC)](https://github.com/KevinCabral401/Portfolio/tree/main/Mobile%20Banking) <br>
 - <b>Machine Learning</b>
